@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 10  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 04.05.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,7 +32,12 @@
 
 ## Input:
 
+![image](https://github.com/SandhiyaRajagopal/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870852/8bcd6b7b-26e0-48c6-aea5-e43846199358)
+
 ### Output:
+
+![image](https://github.com/SandhiyaRajagopal/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870852/d8159dcc-688e-4fe7-951a-6104915109c7)
+
 
 
 ### Name:
